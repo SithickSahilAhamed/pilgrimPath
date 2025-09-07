@@ -64,8 +64,13 @@ A comprehensive end-to-end web application for managing large crowd events like 
    ```
 
 4. **Start the application**
+   cd into server folder and then
    ```bash
    npm run dev
+   ```
+   cd into client and then
+   ```bash
+   npm run start
    ```
 
    This will start both the backend server (port 5000) and frontend development server (port 3000).
